@@ -2,8 +2,9 @@ VAR health = 45
 VAR gold = 1
 VAR weapon = "old sword"
 LIST party = (Dax), (Anna), (Aric)
-VAR anna_trust = 5 //1-10
+VAR anna_trust = 5 
 VAR can_see = true
+
 -> Entrance 
 === Entrance ===
 "We're here..." Anna says, her tone shakier than usual. In front of you, is a small hole in the ground, granit steps leading down. Next to it, a stick dangling the skeletal remains of the last adventurer to enter here.

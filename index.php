@@ -1,1 +1,1 @@
-<?php header( 'Location: /your-story/index.html' ) ;  ?>
+<?php header( 'Location: /goblins/index.html' ) ;  ?>
