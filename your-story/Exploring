@@ -1,5 +1,34 @@
 
-
 === Exploring
-test
+{can_see}
+-> Main_Corridor
+
+
+=== Main_Corridor
+
+You travel along for what feels like several hundred feet, the cave slowly sloping downward the entire time. The draft is gone now, but it's still cold. You hear only the soft shuffle of your and and Anna's foot steps. At least, you think it's Anna...
+
+* Check on Anna
+     "Hey, everything ok back there?"
+     "Yeah, no problems here. Just wish I could see where we were going."
+     "You and me both, haha"
+     ~ loudness +=1
+     -> gaurd_room
+* Keep going ->listen
+
+=== listen
+You shrug it off. Best not to get anxious. Suddenly, you hear something.
+"What was that," Anna whispered. 
+"Shh-"
+* Listen 
+    You turn your head, straining to hear better, but soon all you can make out is your own heart beat.
+    "Come on," you urge. "I think it's gone."
+* Keep going
+    Insinctively, you draw your sword, lower your center of gravity, and creep forward. "Come on." 
+
+
+=== gaurd_room_empty
+->END
+=== gaurd_room
+->END
 ->END

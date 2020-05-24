@@ -11,7 +11,6 @@ VAR loudness = 0
 LIST party = Dax, (Anna), Aric
 LIST equipment = (torch) , (potion) 
 
-{party}
 -> Entrance 
 === Entrance ===
 "We're here..." Anna says, her tone shakier than usual. In front of you, is a small hole in the ground, granit steps leading down. Next to it, a stick dangling the skeletal remains of the last adventurer to enter here.
